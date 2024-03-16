@@ -1,2 +1,1 @@
-# Undot-Studio-Code-Repository
-Undot Studio Open Source Codes
+👉Buradaki projeler Undot Studio tarafından geliştirilmiş olup açık kaynak koduna sahiptir. Aynı zamanda Geliştirici Araçları hizmetlerimizden bazıları topluluk tarafından kullanılabilir ve incelenebilir. Projelerimizin açık kaynak olmaya devam etmesini istiyorsanız ve bize destek olmak istiyorsanız https://www.patreon.com/SLASHDONATE üzerinden katkıda bulunabilirsiniz . Teşekkürler! ❤️ 
